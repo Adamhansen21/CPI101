@@ -1,0 +1,22 @@
+body {
+  background-color: red;
+}
+h1 {
+  color: blue;
+  text-align: right;
+  font-family: verdana;
+  
+}
+h2 {
+  font-family: calibri;
+  text-align: left;
+}
+h3 {
+  font-family: sans-serif;
+  text-align: left;
+}
+.bottom {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
